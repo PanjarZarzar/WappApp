@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WhatsUpdate</string>
+    <string name="Internet_Connection_Error">Please, check your internet connection and try again.</string>
+    <string name="alreadyLatestVersion">You have already the latest version</string>
+
+    <string name="newVersionAvailable">New version is available</string>
+
+    <string name="check">Check</string>
+    <string name="installed_version">Installed Version:</string>
+    <string name="official_version_available">Official Version Available:</string>
+    <string name="checking_state">Checking for available version</string>
+
+    <string name="button_check">Check</string>
+    <string name="button_download">Download</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="downloading">Downloading…</string>
+    <string name="title_file_download">WhassapNewVersion</string>
+    <string name="storage_access_required">Storage access is required to downloading the file.</string>
+    <string name="storage_permission_denied">Storage permission request was denied.</string>
+    <string name="ok">OK</string>
+
+</resources>
