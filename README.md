@@ -1,4 +1,4 @@
-# WappApp
+# WhatsApp Update for Android
 Update For WhatsApp
 
 Update for WhatsApp updates to the latest version for WhatsApp from Official Website directly. You can install Update for WhatsApp to your any android tablets and smartphones.
